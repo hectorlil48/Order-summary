@@ -140,6 +140,16 @@ h2 {
     transition: 0.4s;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media (max-width: 495px) {
 
     .hero {
